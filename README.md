@@ -15,8 +15,10 @@ Gelbooru
 HentaiHaven 
   - Uses both a category search with category_search(categories) and random search with random()
   - Spaces marks a separation between two different categories use '-' for multi word categories
+  
 PornHub
   - Uses a video search with video_search(keywords)
   - Spaces are allowed
+  
 Rule34
   -Same rules as Gelbooru
