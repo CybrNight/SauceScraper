@@ -21,4 +21,4 @@ PornHub
   - Spaces are allowed
   
 Rule34
-  -Same rules as Gelbooru
+  - Same rules as Gelbooru
