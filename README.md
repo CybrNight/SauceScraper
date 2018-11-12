@@ -4,7 +4,7 @@ This is a collection of media scrapers for various websites.
 
 These scrapers were intiallty written for my Discord bot, but I have uploaded them separatley here
 
-#Requirements
+# Requirements
 Python 3.6.6
 It should work on future versions of Python and future versions of the dependencies.
 
