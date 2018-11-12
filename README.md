@@ -4,13 +4,17 @@ This is a collection of media scrapers for various websites.
 
 These scrapers were intiallty written for my Discord bot, but I have uploaded them separatley here
 
-# Usage
-These files cannot be run on their own without some modification. They are designed to be a backend for other usage.
+#Requirements
+```bash
+pip install requirements.txt
+```
 
+# Usage
+The scrapers are not designed to run on their own, but rather are an addon package for your project
 Import this package into your project and use the designated functions for each as described below.
-Make sure to rename downloaded folder to fit your liking
 
 # Code Examples
+Note:"saucescraper" is whatever you named your extracted folder
 Gelbooru
 ```python
   from saucescraper import *
