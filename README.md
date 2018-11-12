@@ -17,6 +17,12 @@ Gelbooru
 HentaiHaven 
   - Uses both a category search with category_search(categories) and random search with random()
   - Spaces marks a separation between two different categories use '-' for multi word categories
+
+  ```python
+    keywords = input("Categories sperated by spaces")
+
+    category_search(keywords)
+  ```
   
 PornHub
   - Uses a video search with video_search(keywords)
